@@ -1,4 +1,5 @@
 ├── client/   ← React
+
 └── server/   ← Django (we here)
 
 1. Django is in this 'Server' folder
