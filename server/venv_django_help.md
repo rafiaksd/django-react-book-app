@@ -13,4 +13,5 @@ python -m venv myvenv
 myvenv\Scripts\activate
 pip install django djangorestframework
 django-admin startproject config .
-python manage.py startapp todo```
+python manage.py startapp todo
+```
